@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Dongnipp-WinUI3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Dongnipp-WinUI3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
